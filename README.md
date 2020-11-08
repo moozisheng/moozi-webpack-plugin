@@ -1,6 +1,6 @@
 # moozi-webpack-plugin
 
-![template](https://cdn.nlark.com/yuque/0/2020/png/427411/1604803788786-d8bb331f-8c63-463d-8b10-1043acaa457a.png)
+![webpack](https://cdn.nlark.com/yuque/0/2020/png/427411/1604803788786-d8bb331f-8c63-463d-8b10-1043acaa457a.png)
 <br/>
 
 插件是 webpack 的重要组成部分，为用户提供了一种强大方式来直接触及 webpack 的编译过程(compilation process)。插件能够 钩入(hook) 到在每个编译(compilation)中触发的所有关键事件。在编译的每一步，插件都具备完全访问 compiler 对象的能力，如果情况合适，还可以访问当前 compilation 对象。
